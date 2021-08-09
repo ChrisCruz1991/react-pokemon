@@ -1,4 +1,4 @@
-#React-Pokemon
+# React-Pokemon
 
 Practice project for learning using `GraphQL` on the client-side (using `apollo-graphql`)
 
