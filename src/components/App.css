@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  width: 90%;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: #eee;
+  margin: 0 auto;
+}
+
+.card {
+  width: calc(100% / 4);
+  margin: 30px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.card-button {
+  width: 120px;
+  margin: 20px;
+  height: 30px;
+  border-radius: 8px;
+  background: rgb(81, 157, 56);
+  color: #eee;
+  border: none;
+  font-size: 14px;
+}
+
+.card-button:hover {
+  cursor: pointer;
+}
+
+.pokemon-image {
+  width: 120px;
+}
+
+.attacks {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  align-content: center;
+  align-items: center;
+}
+
+.fast-attacks {
+  width: 50%;
+}
+
+.special-attacks {
+  width: 50%;
+}

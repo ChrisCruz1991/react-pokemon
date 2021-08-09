@@ -1,0 +1,29 @@
+.single-pokemon {
+  display: flex;
+  justify-content: center;
+}
+
+.description {
+  text-align: center;
+  margin: 0 10px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.pokemon-sprite {
+  width: 150px;
+}
+
+ul {
+  display: flex;
+}
+
+.col {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+}

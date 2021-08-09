@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#React-Pokemon
+
+Practice project for learning using `GraphQL` on the client-side (using `apollo-graphql`)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
